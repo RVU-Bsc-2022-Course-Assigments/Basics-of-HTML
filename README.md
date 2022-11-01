@@ -1,4 +1,4 @@
-# Basics- f HTML
+# Basics- of HTML
 ## Assignment 1
 
 #### Topics Covered - 
