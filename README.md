@@ -3,7 +3,8 @@
 
 #### Topics Covered - 
 
-``` A) Basic format of a HTML document.
+``` 
+A) Basic format of a HTML document.
 B) Usage of basic HTML Tags ( <h1> to <h6>, <img>, <p>, <b>, <i>,<ul>,<ol>,<li> and <style>)
 
 
