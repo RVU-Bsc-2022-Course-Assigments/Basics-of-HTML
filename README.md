@@ -16,9 +16,8 @@ B) Usage of basic HTML Tags ( <h1> to <h6>, <img>, <p>, <b>, <i>,<ul>,<ol>,<li> 
     (Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Tincidunt ornare massa eget egestas purus. Tincidunt arcu non sodales neque. Imperdiet proin fermentum leo vel.
     Sagittis purus sit amet volutpat.)
-
-3. To get some practice working with text in HTML, create a plain blog article page which uses different headings, uses paragraphs, and has some text in the paragraphs bolded and italicized. You can use Lorem Ipsum to generate dummy text, in place of real text as you build your sites.
-4. Write an HTML document that
+    
+3. Write an HTML document that
    a) has a heading ( Union Territories in India) using the <h2> tag.
    b) lists all the union territories of India in a bullet list.
       (Ladakh
@@ -30,6 +29,6 @@ B) Usage of basic HTML Tags ( <h1> to <h6>, <img>, <p>, <b>, <i>,<ul>,<ol>,<li> 
       Daman & Diu
       Andaman and Nicobar Islands)
 
-5. Write an HTML document that
+4. Write an HTML document that
    a) has background colour - #FB2576
    b) heading ( Lorem ipsum ) using <h1> tag with text colour - #150050```
